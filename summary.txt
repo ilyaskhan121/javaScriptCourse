@@ -1,0 +1,24 @@
+Summary:
+JavaScript tutorial:
+
+In this video I learned following terminologies which are;
+•	Rules and ways for declaration of JavaScript variables.
+•	How to assign values to a variable.
+•	Perform some basic operations on variables like Addition, Subtraction, Multiplication and Division etc.
+•	Operations on strings.
+•	Learned about arrays.
+•	Basic operations performed on arrays.
+•	Scope of variables.
+•	How to make decision using if and else statements.
+•	Ternary operator.
+•	How to declare and write functions.
+•	Learned about high order functions.
+•	Anonymous functions.
+•	Performed some tasks on functions like random number generation, filtering and mapping etc.
+•	Loops.
+•	Objects.
+•	Nested object.
+•	Rest operator.
+•	DE structuring assignment.
+•	Class.
+•	Getter and setter.
