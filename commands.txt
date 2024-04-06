@@ -1,0 +1,20 @@
+Git and GitHub tutorial:
+Commands learned in GitHub tutorial video:
+I learned commands and ways to update my repo on the GitHub in the GitHub tutorial video. The commands I learned are following;
+•	Git init.
+•	Git add.
+•	Git status.
+•	Git commit.
+•	Git push.
+•	Git remote add origin.
+•	Git clone.
+•	Git branch.
+•	Git checkout -b.
+•	Git checkout.
+•	Git diff.
+•	Git merge.
+•	Git branch -d.
+•	Git reset.
+•	Git reset HEAD~1.
+•	Git log.
+
