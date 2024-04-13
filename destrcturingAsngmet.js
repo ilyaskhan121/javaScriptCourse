@@ -9,7 +9,6 @@ let w = car.wheels
 let m = car.model
 console.log(nm, w, m)
 //with destructing assignment
-//without destructing assignment
 let car2 = {
   name: "honda",
   wheels: 4,
